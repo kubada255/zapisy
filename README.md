@@ -1,3 +1,4 @@
-Inventory app
+Aplikacja do zapisywania tętna
+
 ==================================
 
